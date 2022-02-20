@@ -4,11 +4,11 @@ Application that assigns shipment destinations to drivers in a way that maximize
 
 *Instructions on how to build/run the app:
 
-1. First of all, downolad this repository into your local machine.
+1. First of all, download this repository on your local machine.
 
 2. Once you downloaded the repository, unzip it and you will see the folder project. 
 
-3. In order to test the application you can use the two files inside the project folder, which are called: 'shipmentsDestinations.txt' and 'driversNames.txt'. The first containing the street addresses of the shipment destinations and the second containing the names of the drivers.  But if you prefer you can supply your own files of names. Only take these considerations: not supply names with accents because the application not work with accents and they must be separated by newlines, the files must have .txt extension. Also you must have put them inside of the project folder. 
+3. In order to test the application you can use the two files inside the project folder, which are called: 'shipmentsDestinations.txt' and 'driversNames.txt'. The first containing the street addresses of the shipment destinations and the second containing the names of the drivers.  But if you prefer you can supply your own files of names. Only take these considerations: not supply names with accents because the application not works with accents and they must be separated by newlines, the files must have .txt file extension. Also you must have put them inside of the project folder. 
 
 3. After that open the terminal and make sure to have python 3 installed on your local machine. Now  go to the project folder and run the command "python3 main.py".
 
