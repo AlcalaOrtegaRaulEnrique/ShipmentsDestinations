@@ -6,7 +6,7 @@ Application that assigns shipment destinations to drivers in a way that maximize
 
 1. First of all, downolad this repository into your local machine.
 
-2. Once you downloaded the repository, unzip the repository and you will see a folder project called ShipmentsDestinations. 
+2. Once you downloaded the repository, unzip it and you will see the folder project. 
 
 3. In order to test the application you can use the two files inside the project folder, which are called: 'shipmentsDestinations.txt' and 'driversNames.txt'. The first containing the street addresses of the shipment destinations and the second containing the names of the drivers.  But if you prefer you can use your own files. Only take these considerations: they must have the information separated by newlines and .txt file extension. Also you must have put them inside of the project folder. 
 
